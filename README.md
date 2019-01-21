@@ -37,3 +37,4 @@ La page produit décrit le lieu et doit contenir les informations suivantes :
   - WhatsApp
 # LocalHeater
 # Localheather
+# Localheather
